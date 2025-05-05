@@ -105,7 +105,7 @@ console.log('Hello Javascript');
 
 ### Checklist
 
-- [ x ] Fix bug
+- [x] Fix bug
 - [ ] Accounting
 - [x] Debug
 
